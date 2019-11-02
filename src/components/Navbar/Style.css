@@ -1,0 +1,12 @@
+.fa-github , .fa-linkedin {
+    color: black;
+}
+
+.fa-github:hover , .fa-linkedin:hover {
+    color: rgb(148, 212, 233);
+    text-decoration: none;
+}
+
+.socialMedia {
+    color: rgb(148, 212, 233);
+}
